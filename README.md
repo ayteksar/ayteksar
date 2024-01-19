@@ -1,8 +1,8 @@
-## 👋 "Hello World!", I'm Teksar🚴‍♂️!
+## 👋 "Hello World!", I'm Yasir🚴‍♂️!
 
-- 🔭 I’m currently working on Team Huma
-- 👀 I’m interested in C++, OOP, IoT
-- 🌱 I’m currently learning JS and C++
+- 🔭 I’m currently working on Roketsan :rocket: as Engineer
+- 👀 I’m interested in C++, OOP, (maybe Python or R for new language)
+- 🌱 I’m currently learning C++ Object Oriented Programming 
 <!-- - 📫 How to reach me -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
