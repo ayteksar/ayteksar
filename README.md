@@ -1,8 +1,9 @@
 ## 👋 "Hello World!", I'm Yasir🚴‍♂️!
 
-- 🔭 I’m currently working on Roketsan :rocket: as Engineer
-- 👀 I’m interested in C++, OOP, (maybe Python or R for new language)
-- 🌱 I’m currently learning C++ Object Oriented Programming 
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"The life mean is solving problem for me! And it's enjoying?”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
+- 🔭 I’m currently working on Roketsan :rocket: as C++ Developer
+- 🤝 I’m available for freelancing
 <!-- - 📫 How to reach me -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
@@ -15,10 +16,12 @@
 
 <p>In Summer of 2022, I participated TEKNOFEST Model Satellite Competition which is organized in TÜRKİYE and I launched the satellite together with me to the space. It's only joke, was only launched satellite! I programmed "Flight Control Systems & Ground Station Interface".</p>
 
-<p>And I built "Steel White House" with my family. It's not about computer or software. But It was very important for me because I was 20 years old when I built a house.<p>
+<p>And I built "Steel White House" with my family. It's not about computer or software. But It was very important for me because I was 20 years old when I built a house.</p>
+
+<p>I'm currently work as a Flight Test Engineer in Roketsan from March, 2023 </p>
+
 </details>
 <br>
-
 
 <!-- [My GitHub Page](https://github.com/ayteksar)
 
